@@ -32,28 +32,28 @@
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1545326702486,
             "changeTime": 1545326702486,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545325914087,
+            "changeTime": 1545325914087,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1545326894406,
-            "changeTime": 1545326894406,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1545325972439,
+            "changeTime": 1545325972439,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1545327051708,
-            "changeTime": 1545327051708,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -385,352 +385,92 @@
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs/Laccc_Lo.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs/Laccc_Lo.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 260,
             "modifiedTime": 1545326702483,
             "changeTime": 1545326702483,
-            "contentHash": "9f7f98b8b88586593aaa51d158f624e0ce769beb",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "9f7f98b8b88586593aaa51d158f624e0ce769beb"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4669,
             "modifiedTime": 1545326702487,
             "changeTime": 1545326702487,
-            "contentHash": "842ec2aff313c8740095b76eb7f3896fa02ccc1a",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "842ec2aff313c8740095b76eb7f3896fa02ccc1a"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4673,
             "modifiedTime": 1545326702490,
             "changeTime": 1545326702490,
-            "contentHash": "7ca9495533a097a76a119edfd15b5ea5e0b167b4",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "7ca9495533a097a76a119edfd15b5ea5e0b167b4"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5009,
             "modifiedTime": 1545326702494,
             "changeTime": 1545326702494,
-            "contentHash": "6e820b19b04d910961491c452371343e45e1e338",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6e820b19b04d910961491c452371343e45e1e338"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18192,
             "modifiedTime": 1545326702504,
             "changeTime": 1545326702504,
-            "contentHash": "a0fb2a8beccca28a55af79090f2fc35a499471d2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a0fb2a8beccca28a55af79090f2fc35a499471d2"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545326702483,
             "changeTime": 1545326702483,
-            "contentHash": "4c494a7f535f953bd3b17556590a6d7a3aa04848",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "4c494a7f535f953bd3b17556590a6d7a3aa04848"
         }
     ],
     [
         "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1545326702504,
             "changeTime": 1545326702504,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1545326894410,
-            "changeTime": 1545326894410,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1545326816011,
-            "changeTime": 1545326816011,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1545326894409,
-            "changeTime": 1545326894409,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 341,
-            "modifiedTime": 1545326929379,
-            "changeTime": 1545326929379,
-            "contentHash": "c5629c601ab93ac93aa438d63232b4c280d2ccc1"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1545326894407,
-            "changeTime": 1545326894407,
-            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 112,
-            "modifiedTime": 1545327000868,
-            "changeTime": 1545327000868,
-            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1545326894410,
-            "changeTime": 1545326894410,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1545326894409,
-            "changeTime": 1545326894409,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1545326974270,
-            "changeTime": 1545326974270,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1545326894407,
-            "changeTime": 1545326894407,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1545326894409,
-            "changeTime": 1545326894409,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1545326816010,
-            "changeTime": 1545326816010,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 121,
-            "modifiedTime": 1545326848889,
-            "changeTime": 1545326848889,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1545326816008,
-            "changeTime": 1545326816008,
-            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 169,
-            "modifiedTime": 1545326872997,
-            "changeTime": 1545326872997,
-            "contentHash": "22602e1233fee615edad96067b8caea2a99688b0"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1545326816011,
-            "changeTime": 1545326816011,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1545326816010,
-            "changeTime": 1545326816010,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1545326816008,
-            "changeTime": 1545326816008,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1545326816009,
-            "changeTime": 1545326816009,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1545326816010,
-            "changeTime": 1545326816010,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
