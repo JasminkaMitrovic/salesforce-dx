@@ -1,0 +1,1277 @@
+[
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545320227532,
+            "changeTime": 1545320227532,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545320227532,
+            "changeTime": 1545320227532,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1545387135422,
+            "changeTime": 1545387135422,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1545388102905,
+            "changeTime": 1545388102905,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1545326894410,
+            "changeTime": 1545326894410,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1545326894409,
+            "changeTime": 1545326894409,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 545,
+            "modifiedTime": 1545388395770,
+            "changeTime": 1545388395770,
+            "contentHash": "c36c8bd8b3d845717280969c471b7642a2ee4ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1545326894407,
+            "changeTime": 1545326894407,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 112,
+            "modifiedTime": 1545327000868,
+            "changeTime": 1545327000868,
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1545326894410,
+            "changeTime": 1545326894410,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1545326894409,
+            "changeTime": 1545326894409,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1545389382442,
+            "changeTime": 1545389382442,
+            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1545326894407,
+            "changeTime": 1545326894407,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1545326894409,
+            "changeTime": 1545326894409,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1545326816011,
+            "changeTime": 1545326816011,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1545326816010,
+            "changeTime": 1545326816010,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1545326848889,
+            "changeTime": 1545326848889,
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1545326816008,
+            "changeTime": 1545326816008,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1545326872997,
+            "changeTime": 1545326872997,
+            "contentHash": "22602e1233fee615edad96067b8caea2a99688b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1545326816011,
+            "changeTime": 1545326816011,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1545326816010,
+            "changeTime": 1545326816010,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1545326816008,
+            "changeTime": 1545326816008,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1545326816009,
+            "changeTime": 1545326816009,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1545326816010,
+            "changeTime": 1545326816010,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1545325914091,
+            "changeTime": 1545325914091,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1545325914091,
+            "changeTime": 1545325914091,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 177,
+            "modifiedTime": 1545387485711,
+            "changeTime": 1545387485711,
+            "contentHash": "98c9276433c42ed06cd52a826f4b5a4fdf98e2ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1545325914088,
+            "changeTime": 1545325914088,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 130,
+            "modifiedTime": 1545326005245,
+            "changeTime": 1545326005245,
+            "contentHash": "2fa3f93bf37f3124658447a21f90ef4fa79db519",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1545325914091,
+            "changeTime": 1545325914091,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1545325914090,
+            "changeTime": 1545325914090,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1545325914089,
+            "changeTime": 1545325914089,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1545325914089,
+            "changeTime": 1545325914089,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1545325914090,
+            "changeTime": 1545325914090,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1545387240137,
+            "changeTime": 1545387240137,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1545387240136,
+            "changeTime": 1545387240136,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 331,
+            "modifiedTime": 1545389840368,
+            "changeTime": 1545389840368,
+            "contentHash": "3c0a03b4b5e415886724191873141d99775bb976",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1545387240134,
+            "changeTime": 1545387240134,
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46,
+            "modifiedTime": 1545387388709,
+            "changeTime": 1545387388709,
+            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1545387240137,
+            "changeTime": 1545387240137,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1545387240136,
+            "changeTime": 1545387240136,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1545389448306,
+            "changeTime": 1545389448306,
+            "contentHash": "7366953a19e8efded0af37fc508f0e21da78dbb0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1545387240135,
+            "changeTime": 1545387240135,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1545387240136,
+            "changeTime": 1545387240136,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1545388102906,
+            "changeTime": 1545388102906,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1545388197455,
+            "changeTime": 1545388197455,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1545388102906,
+            "changeTime": 1545388102906,
+            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1545325704088,
+            "changeTime": 1545325704088,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 293,
+            "modifiedTime": 1545325747935,
+            "changeTime": 1545325747935,
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1545325704088,
+            "changeTime": 1545325704088,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1545321925279,
+            "changeTime": 1545321925279,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1545321925279,
+            "changeTime": 1545321925279,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1545321925275,
+            "changeTime": 1545321925275,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1545321925271,
+            "changeTime": 1545321925271,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1545321925265,
+            "changeTime": 1545321925265,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545321925257,
+            "changeTime": 1545321925257,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545321925257,
+            "changeTime": 1545321925257,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545321925259,
+            "changeTime": 1545321925259,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1545321925259,
+            "changeTime": 1545321925259,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545321925280,
+            "changeTime": 1545321925280,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1545321925280,
+            "changeTime": 1545321925280,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1545326702504,
+            "changeTime": 1545326702504,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18192,
+            "modifiedTime": 1545326702504,
+            "changeTime": 1545326702504,
+            "contentHash": "a0fb2a8beccca28a55af79090f2fc35a499471d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4673,
+            "modifiedTime": 1545326702490,
+            "changeTime": 1545326702490,
+            "contentHash": "7ca9495533a097a76a119edfd15b5ea5e0b167b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4669,
+            "modifiedTime": 1545326702487,
+            "changeTime": 1545326702487,
+            "contentHash": "842ec2aff313c8740095b76eb7f3896fa02ccc1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5009,
+            "modifiedTime": 1545326702494,
+            "changeTime": 1545326702494,
+            "contentHash": "6e820b19b04d910961491c452371343e45e1e338",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1545387135507,
+            "changeTime": 1545387135507,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1545387135586,
+            "changeTime": 1545387135586,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1545387135509,
+            "changeTime": 1545387135509,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1545387135507,
+            "changeTime": 1545387135507,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1545387135508,
+            "changeTime": 1545387135508,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2464,
+            "modifiedTime": 1545387135508,
+            "changeTime": 1545387135508,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1545387135509,
+            "changeTime": 1545387135509,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1545387135509,
+            "changeTime": 1545387135509,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 398589,
+            "modifiedTime": 1545387135510,
+            "changeTime": 1545387135510,
+            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 759894,
+            "modifiedTime": 1545387135544,
+            "changeTime": 1545387135544,
+            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 400314,
+            "modifiedTime": 1545387135545,
+            "changeTime": 1545387135545,
+            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 759986,
+            "modifiedTime": 1545387135546,
+            "changeTime": 1545387135546,
+            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14106,
+            "modifiedTime": 1545387135547,
+            "changeTime": 1545387135547,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 140540,
+            "modifiedTime": 1545387135585,
+            "changeTime": 1545387135585,
+            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 191113,
+            "modifiedTime": 1545387135586,
+            "changeTime": 1545387135586,
+            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1545387135423,
+            "changeTime": 1545387135423,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545326702483,
+            "changeTime": 1545326702483,
+            "contentHash": "4c494a7f535f953bd3b17556590a6d7a3aa04848",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs/Laccc_Lo.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation/force-app/main/default/tabs/Laccc_Lo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1545326702483,
+            "changeTime": 1545326702483,
+            "contentHash": "9f7f98b8b88586593aaa51d158f624e0ce769beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jasminka/Documents/Projects/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jasminka/Documents/Projects/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1545324829226,
+            "changeTime": 1545324829226,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
